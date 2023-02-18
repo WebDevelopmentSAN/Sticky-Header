@@ -1,0 +1,20 @@
+header {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  z-index: 100;
+}
+body {
+  padding-top: 80px; /* adjust this value depending on the height of your header */
+}
+.one{
+
+  height: 2000px;
+  background-color: brown;
+}
+.two{
+  height: 2000px;
+  background-color: blueviolet;
+}
